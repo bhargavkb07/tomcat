@@ -23,4 +23,4 @@ Contains configuration to use the Google Cloud Build service which
 Is a terraform file which creates a trigger on Google Cloud Build on the supplied parameters
 
 ## Updated 8/3/21
-Testing GCP CI/CD
+Testing GCP CI/CD.
